@@ -1,0 +1,41 @@
+.transforms {
+    /* transform: translate(1rem, 0); */
+    /* left: 2rem; */
+    width: 13rem;
+    /* transition: all 2s; */
+}
+
+
+.tansitions {
+    left: 0rem;
+    transition: all 2s;
+    cursor: pointer;
+    /* transform: translate(20rem,0); */
+}
+
+
+
+.induk:hover .tansitions {
+    left: -11.3rem;
+}
+
+.color {
+    background-color: #FEC72C;
+    color: black;
+}
+
+.image {
+    filter: blur(2px);
+    transition: all 2s;
+}
+
+.induk:hover .image {
+    filter: blur(0px);
+}
+
+.induk {
+    transition: all 0.5s;
+}
+.induk:hover {
+    box-shadow: -3px 3px 10px 0px #413001ab;
+}

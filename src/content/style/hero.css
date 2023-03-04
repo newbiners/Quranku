@@ -1,0 +1,85 @@
+.background {
+    background-image: url("../../assets/bg.jpg");
+    justify-self: center;
+
+}
+.radius {
+    border-radius: 300px 300px 0px 0px;
+}
+
+.center {
+    align-items: center;
+    grid-template-columns: 57fr 40fr;
+    gap: 3rem;
+}
+
+.gambar {
+    height: 490px;
+}
+.gambar-bg {
+    height: 490px;
+    width: 400px;
+}
+.leading {
+    line-height: 4rem;
+    font-size: 3.5rem;
+    /* letter-spacing: 1px; */
+}
+.hackbid {
+  background: linear-gradient(
+    90deg,
+    #4423e8,
+    #850fe6,
+    #ed8f57,
+    #e7bf0c,
+    #165de2
+  );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+display: block;
+}
+
+.download {
+  padding: 1rem 2rem;
+  border: 0;
+  box-shadow: 0px 0px 40px 0px #FEC72C;
+  font-weight: bolder;
+  color: #07114F;
+  border-radius: 0.3rem;
+  background-color: #FEC72C;
+  letter-spacing: .2rem;
+}
+
+.download:hover {
+  animation: changeBg 1s infinite;
+  -webkit-animation-duration: 10s;
+ }
+ 
+ @keyframes changeBg {
+  0%,
+   100% {
+   box-shadow: 0px 0px 40px 0px #FEC72C;
+  }
+ 
+  25% {
+   box-shadow: 0px 0px 40px 0px turquoise;
+   background-color: turquoise;
+  }
+ 
+  50% {
+   box-shadow: 0px 0px 40px 0px purple;
+   background-color: purple;
+  }
+ 
+  75% {
+   box-shadow: 0px 0px 40px 0px rgb(191, 204, 11);
+   background-color: rgb(191, 204, 11);
+  }
+}
+
+  .color {
+    font-size: 0.9rem;
+    color: grey;
+  }

@@ -1,0 +1,30 @@
+.screen {
+    height: 35rem;
+    margin:0 auto;
+    /* align-self: center; */
+    justify-content: center;
+    /* background-color: aqua; */
+    position: relative;
+}
+
+/* Aplikasi pelelangan ini memberikan transparansi dan akurasi yang tinggi dalam proses lelang, sehingga pengguna dapat mempercayai hasil akhir dari lelang.
+Dengan adanya sistem verifikasi pengguna dan barang yang akan dilelang, aplikasi ini dapat memastikan bahwa setiap lelang dilakukan secara fair dan jujur.
+Aplikasi pelelangan ini dilengkapi dengan sistem pembayaran yang aman dan terpercaya, sehingga pengguna dapat dengan mudah melakukan transaksi keuangan di dalam aplikasi.
+Aplikasi ini juga memberikan kesempatan bagi pengguna untuk memonitor dan mengatur aktivitas lelang mereka dengan mudah, serta memperoleh informasi terbaru tentang lelang yang sedang berlangsung.
+Selain itu, aplikasi ini juga memberikan kesempatan bagi pengguna untuk berinteraksi dengan para penjual dan pembeli, sehingga proses lelang menjadi lebih interaktif dan transparan.
+Aplikasi pelelangan ini memiliki antarmuka yang mudah dipahami, sehingga pengguna dapat dengan mudah menjelajahi fitur-fitur aplikasi tanpa perlu melalui proses pelatihan yang rumit. */
+
+.grid-cols-35-65 {
+    grid-template-columns: 35fr 65fr;
+}
+
+.borders{
+    border-radius: 20rem 20rem 0 20rem;
+    box-shadow: -3px 3px 10px 0px #413001ab;
+}
+
+.borders2{
+    border-radius: 20rem 20rem 20rem 0;
+    box-shadow: 3px 3px 10px 0px #150141ab;
+}
+
