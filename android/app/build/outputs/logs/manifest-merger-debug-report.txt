@@ -1,0 +1,387 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/da1e4b0d1e829cad0484b2c75ba7fa5a/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/1c9209255a18802d39a3bb2a6b23b256/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-async-storage_async-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-clipboard_clipboard] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-pager-view] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-sqlite-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/8b6e48c6e78126eb7e463d4a17c96d6c/transformed/jetified-react-android-0.72.5-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/eb18483f077c7aa5bdaa83929c740f14/transformed/jetified-hermes-android-0.72.5-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-sound] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sound/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/gufron/.gradle/caches/transforms-3/dfd01fd8c17f1937c0bb13df14b4646d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/gufron/.gradle/caches/transforms-3/38a290d7c9a71508971ca8cf7dda8b54/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/gufron/.gradle/caches/transforms-3/c7e6ff84fbcc4978aef73f5fa50d69cc/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/gufron/.gradle/caches/transforms-3/b185ab23d8178c57c57531091171c0e7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/gufron/.gradle/caches/transforms-3/5a1826123069ee66b638e562c02827d1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/gufron/.gradle/caches/transforms-3/19923c0054c7a4822efa7e83a442114c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/gufron/.gradle/caches/transforms-3/2c0698ea61c3da9a3fbc91a24dff5d28/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/gufron/.gradle/caches/transforms-3/61adf635e5012f139e255963453334b8/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/gufron/.gradle/caches/transforms-3/3aa76bab9103b3c057a6d584e15ca572/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/gufron/.gradle/caches/transforms-3/da27cf3b528eee18245649a1bc749f48/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/577d20f4c4a0106baea8bd28e98b262d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/gufron/.gradle/caches/transforms-3/7c2f05eeddc80f1602d2e553fd278805/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/bb349a5b7e354b77de95a12b6cb339b9/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/gufron/.gradle/caches/transforms-3/f719e810d1487eb5b9f6495cdab44d62/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/gufron/.gradle/caches/transforms-3/b7eb4cae5385ced0428999cca3f92c71/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/gufron/.gradle/caches/transforms-3/9e024cfb6d32467e8564857cbed52ddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/gufron/.gradle/caches/transforms-3/c878522086109134177ea6babeae4ec6/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /home/gufron/.gradle/caches/transforms-3/347236b0b1896444ac7e73e5f1edeb49/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/gufron/.gradle/caches/transforms-3/9aa3afe513276f6e087ba0518ddb4826/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/gufron/.gradle/caches/transforms-3/607bf9ec874ac0dace4000746417e4bb/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/gufron/.gradle/caches/transforms-3/2b7e03e364123e6c9e516ec5466d40af/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/gufron/.gradle/caches/transforms-3/8c49c0d22f26542b387d772a9e08529a/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/0f26e9ae4aea9813f59c2bc81b72e69c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gufron/.gradle/caches/transforms-3/41d95e79a99226504b02605c672794bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gufron/.gradle/caches/transforms-3/3efe9590c20dedbfe91e9d5c817ae78f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/gufron/.gradle/caches/transforms-3/de7b7ab19f082ba57a9d17dd9f3a9842/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/gufron/.gradle/caches/transforms-3/ed656b75a14b6e0f78dd00a32436ca04/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /home/gufron/.gradle/caches/transforms-3/79267af0237b9357510374f970ffbafe/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/gufron/.gradle/caches/transforms-3/e24d8d7c3b3d854ffb8d59f11be61b58/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/gufron/.gradle/caches/transforms-3/af89aa04607f97d6ec5348bad75dbff0/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gufron/.gradle/caches/transforms-3/9ef0bd5598c401b17f17a9fa56638649/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/gufron/.gradle/caches/transforms-3/5f8a2137f7f348b91c5f5eb343a18a60/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/45f6bce76bf9b3c18f627674fe5b9433/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gufron/.gradle/caches/transforms-3/30ff72e18b11be3c290b0a7fdc97855b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gufron/.gradle/caches/transforms-3/1184ff48dbe037c784ff71cfd7a4f060/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gufron/.gradle/caches/transforms-3/bb458403088988e2fcd287e46b70d9b1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gufron/.gradle/caches/transforms-3/80beb560a212aa6569a336a9d82c7007/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/gufron/.gradle/caches/transforms-3/90eaef450666c3e4e5b512e9256bbd0f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/gufron/.gradle/caches/transforms-3/802908312cf333c9ef3377446f8630ab/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gufron/.gradle/caches/transforms-3/4c0c87fd555560cfb88cd851aaf02a8a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gufron/.gradle/caches/transforms-3/563d60ad4797599c59281adb973e60e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/gufron/.gradle/caches/transforms-3/7331d697fa0efad832be95990e218e54/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/gufron/.gradle/caches/transforms-3/10a2ee769bbdc223bae37d08e59d2279/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/gufron/.gradle/caches/transforms-3/326c2493fbbd00bd163fa916d4ae1eab/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gufron/.gradle/caches/transforms-3/621b1356b859e67f6206be38e81147f5/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gufron/.gradle/caches/transforms-3/8b84871a315351cf31f94cbb06343bbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gufron/.gradle/caches/transforms-3/295674ffee3c645279a32ddbb51f8d2d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gufron/.gradle/caches/transforms-3/ae5832bb8093a70a64a7bdd9f67b8837/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/gufron/.gradle/caches/transforms-3/25221a67af4bd9b172def7623ed2eeb0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/gufron/.gradle/caches/transforms-3/979de983cd92c7b753dfbe6284e4b06e/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/gufron/.gradle/caches/transforms-3/e0d75ef867ec48a008b2bc68b90d9bfc/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/gufron/.gradle/caches/transforms-3/921331af77132a25f740f3aaacef1035/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/gufron/.gradle/caches/transforms-3/4448977e74610da919d9da7552e77787/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:5:23-79
+application
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.1.0] /home/gufron/.gradle/caches/transforms-3/347236b0b1896444ac7e73e5f1edeb49/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/gufron/.gradle/caches/transforms-3/347236b0b1896444ac7e73e5f1edeb49/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gufron/.gradle/caches/transforms-3/8b84871a315351cf31f94cbb06343bbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gufron/.gradle/caches/transforms-3/8b84871a315351cf31f94cbb06343bbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.quranku.MainActivity
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:13:7-25:18
+	android:screenOrientation
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:19:9-45
+	android:label
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:20:9-32
+	android:configChanges
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/da1e4b0d1e829cad0484b2c75ba7fa5a/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/da1e4b0d1e829cad0484b2c75ba7fa5a/transformed/jetified-flipper-network-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/1c9209255a18802d39a3bb2a6b23b256/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] /home/gufron/.gradle/caches/transforms-3/1c9209255a18802d39a3bb2a6b23b256/transformed/jetified-flipper-fresco-plugin-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-async-storage_async-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-clipboard_clipboard] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-clipboard_clipboard] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sqlite-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sqlite-storage] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/8b6e48c6e78126eb7e463d4a17c96d6c/transformed/jetified-react-android-0.72.5-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/8b6e48c6e78126eb7e463d4a17c96d6c/transformed/jetified-react-android-0.72.5-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/eb18483f077c7aa5bdaa83929c740f14/transformed/jetified-hermes-android-0.72.5-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.5] /home/gufron/.gradle/caches/transforms-3/eb18483f077c7aa5bdaa83929c740f14/transformed/jetified-hermes-android-0.72.5-debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sound] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sound/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:react-native-sound] /media/gufron/00581551581546B6/quranku/Quranku/node_modules/react-native-sound/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/gufron/.gradle/caches/transforms-3/dfd01fd8c17f1937c0bb13df14b4646d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/gufron/.gradle/caches/transforms-3/dfd01fd8c17f1937c0bb13df14b4646d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/gufron/.gradle/caches/transforms-3/38a290d7c9a71508971ca8cf7dda8b54/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/gufron/.gradle/caches/transforms-3/38a290d7c9a71508971ca8cf7dda8b54/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/gufron/.gradle/caches/transforms-3/c7e6ff84fbcc4978aef73f5fa50d69cc/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /home/gufron/.gradle/caches/transforms-3/c7e6ff84fbcc4978aef73f5fa50d69cc/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/gufron/.gradle/caches/transforms-3/b185ab23d8178c57c57531091171c0e7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/gufron/.gradle/caches/transforms-3/b185ab23d8178c57c57531091171c0e7/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/gufron/.gradle/caches/transforms-3/5a1826123069ee66b638e562c02827d1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/gufron/.gradle/caches/transforms-3/5a1826123069ee66b638e562c02827d1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/gufron/.gradle/caches/transforms-3/19923c0054c7a4822efa7e83a442114c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/gufron/.gradle/caches/transforms-3/19923c0054c7a4822efa7e83a442114c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/gufron/.gradle/caches/transforms-3/2c0698ea61c3da9a3fbc91a24dff5d28/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/gufron/.gradle/caches/transforms-3/2c0698ea61c3da9a3fbc91a24dff5d28/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/gufron/.gradle/caches/transforms-3/61adf635e5012f139e255963453334b8/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/gufron/.gradle/caches/transforms-3/61adf635e5012f139e255963453334b8/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/gufron/.gradle/caches/transforms-3/3aa76bab9103b3c057a6d584e15ca572/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/gufron/.gradle/caches/transforms-3/3aa76bab9103b3c057a6d584e15ca572/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/gufron/.gradle/caches/transforms-3/da27cf3b528eee18245649a1bc749f48/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/gufron/.gradle/caches/transforms-3/da27cf3b528eee18245649a1bc749f48/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/577d20f4c4a0106baea8bd28e98b262d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/577d20f4c4a0106baea8bd28e98b262d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/gufron/.gradle/caches/transforms-3/7c2f05eeddc80f1602d2e553fd278805/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/gufron/.gradle/caches/transforms-3/7c2f05eeddc80f1602d2e553fd278805/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/bb349a5b7e354b77de95a12b6cb339b9/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/gufron/.gradle/caches/transforms-3/bb349a5b7e354b77de95a12b6cb339b9/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/gufron/.gradle/caches/transforms-3/f719e810d1487eb5b9f6495cdab44d62/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/gufron/.gradle/caches/transforms-3/f719e810d1487eb5b9f6495cdab44d62/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/gufron/.gradle/caches/transforms-3/b7eb4cae5385ced0428999cca3f92c71/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/gufron/.gradle/caches/transforms-3/b7eb4cae5385ced0428999cca3f92c71/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/gufron/.gradle/caches/transforms-3/9e024cfb6d32467e8564857cbed52ddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/gufron/.gradle/caches/transforms-3/9e024cfb6d32467e8564857cbed52ddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/gufron/.gradle/caches/transforms-3/c878522086109134177ea6babeae4ec6/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/gufron/.gradle/caches/transforms-3/c878522086109134177ea6babeae4ec6/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /home/gufron/.gradle/caches/transforms-3/347236b0b1896444ac7e73e5f1edeb49/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/gufron/.gradle/caches/transforms-3/347236b0b1896444ac7e73e5f1edeb49/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/gufron/.gradle/caches/transforms-3/9aa3afe513276f6e087ba0518ddb4826/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/gufron/.gradle/caches/transforms-3/9aa3afe513276f6e087ba0518ddb4826/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/gufron/.gradle/caches/transforms-3/607bf9ec874ac0dace4000746417e4bb/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /home/gufron/.gradle/caches/transforms-3/607bf9ec874ac0dace4000746417e4bb/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/gufron/.gradle/caches/transforms-3/2b7e03e364123e6c9e516ec5466d40af/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/gufron/.gradle/caches/transforms-3/2b7e03e364123e6c9e516ec5466d40af/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/gufron/.gradle/caches/transforms-3/8c49c0d22f26542b387d772a9e08529a/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/gufron/.gradle/caches/transforms-3/8c49c0d22f26542b387d772a9e08529a/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/0f26e9ae4aea9813f59c2bc81b72e69c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/0f26e9ae4aea9813f59c2bc81b72e69c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gufron/.gradle/caches/transforms-3/41d95e79a99226504b02605c672794bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gufron/.gradle/caches/transforms-3/41d95e79a99226504b02605c672794bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gufron/.gradle/caches/transforms-3/3efe9590c20dedbfe91e9d5c817ae78f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gufron/.gradle/caches/transforms-3/3efe9590c20dedbfe91e9d5c817ae78f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/gufron/.gradle/caches/transforms-3/de7b7ab19f082ba57a9d17dd9f3a9842/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/gufron/.gradle/caches/transforms-3/de7b7ab19f082ba57a9d17dd9f3a9842/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/gufron/.gradle/caches/transforms-3/ed656b75a14b6e0f78dd00a32436ca04/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/gufron/.gradle/caches/transforms-3/ed656b75a14b6e0f78dd00a32436ca04/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/gufron/.gradle/caches/transforms-3/79267af0237b9357510374f970ffbafe/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/gufron/.gradle/caches/transforms-3/79267af0237b9357510374f970ffbafe/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/gufron/.gradle/caches/transforms-3/e24d8d7c3b3d854ffb8d59f11be61b58/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/gufron/.gradle/caches/transforms-3/e24d8d7c3b3d854ffb8d59f11be61b58/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/gufron/.gradle/caches/transforms-3/af89aa04607f97d6ec5348bad75dbff0/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/gufron/.gradle/caches/transforms-3/af89aa04607f97d6ec5348bad75dbff0/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gufron/.gradle/caches/transforms-3/9ef0bd5598c401b17f17a9fa56638649/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gufron/.gradle/caches/transforms-3/9ef0bd5598c401b17f17a9fa56638649/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/gufron/.gradle/caches/transforms-3/5f8a2137f7f348b91c5f5eb343a18a60/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /home/gufron/.gradle/caches/transforms-3/5f8a2137f7f348b91c5f5eb343a18a60/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/45f6bce76bf9b3c18f627674fe5b9433/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gufron/.gradle/caches/transforms-3/45f6bce76bf9b3c18f627674fe5b9433/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gufron/.gradle/caches/transforms-3/30ff72e18b11be3c290b0a7fdc97855b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gufron/.gradle/caches/transforms-3/30ff72e18b11be3c290b0a7fdc97855b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gufron/.gradle/caches/transforms-3/1184ff48dbe037c784ff71cfd7a4f060/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gufron/.gradle/caches/transforms-3/1184ff48dbe037c784ff71cfd7a4f060/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gufron/.gradle/caches/transforms-3/bb458403088988e2fcd287e46b70d9b1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gufron/.gradle/caches/transforms-3/bb458403088988e2fcd287e46b70d9b1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gufron/.gradle/caches/transforms-3/80beb560a212aa6569a336a9d82c7007/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gufron/.gradle/caches/transforms-3/80beb560a212aa6569a336a9d82c7007/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gufron/.gradle/caches/transforms-3/90eaef450666c3e4e5b512e9256bbd0f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gufron/.gradle/caches/transforms-3/90eaef450666c3e4e5b512e9256bbd0f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/gufron/.gradle/caches/transforms-3/802908312cf333c9ef3377446f8630ab/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gufron/.gradle/caches/transforms-3/802908312cf333c9ef3377446f8630ab/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/gufron/.gradle/caches/transforms-3/4c0c87fd555560cfb88cd851aaf02a8a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gufron/.gradle/caches/transforms-3/4c0c87fd555560cfb88cd851aaf02a8a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gufron/.gradle/caches/transforms-3/563d60ad4797599c59281adb973e60e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gufron/.gradle/caches/transforms-3/563d60ad4797599c59281adb973e60e2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/gufron/.gradle/caches/transforms-3/7331d697fa0efad832be95990e218e54/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/gufron/.gradle/caches/transforms-3/7331d697fa0efad832be95990e218e54/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/gufron/.gradle/caches/transforms-3/10a2ee769bbdc223bae37d08e59d2279/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/gufron/.gradle/caches/transforms-3/10a2ee769bbdc223bae37d08e59d2279/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/gufron/.gradle/caches/transforms-3/326c2493fbbd00bd163fa916d4ae1eab/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/gufron/.gradle/caches/transforms-3/326c2493fbbd00bd163fa916d4ae1eab/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gufron/.gradle/caches/transforms-3/621b1356b859e67f6206be38e81147f5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gufron/.gradle/caches/transforms-3/621b1356b859e67f6206be38e81147f5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gufron/.gradle/caches/transforms-3/8b84871a315351cf31f94cbb06343bbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gufron/.gradle/caches/transforms-3/8b84871a315351cf31f94cbb06343bbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gufron/.gradle/caches/transforms-3/295674ffee3c645279a32ddbb51f8d2d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gufron/.gradle/caches/transforms-3/295674ffee3c645279a32ddbb51f8d2d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gufron/.gradle/caches/transforms-3/ae5832bb8093a70a64a7bdd9f67b8837/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gufron/.gradle/caches/transforms-3/ae5832bb8093a70a64a7bdd9f67b8837/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/gufron/.gradle/caches/transforms-3/25221a67af4bd9b172def7623ed2eeb0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/gufron/.gradle/caches/transforms-3/25221a67af4bd9b172def7623ed2eeb0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/gufron/.gradle/caches/transforms-3/979de983cd92c7b753dfbe6284e4b06e/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/gufron/.gradle/caches/transforms-3/979de983cd92c7b753dfbe6284e4b06e/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/gufron/.gradle/caches/transforms-3/e0d75ef867ec48a008b2bc68b90d9bfc/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/gufron/.gradle/caches/transforms-3/e0d75ef867ec48a008b2bc68b90d9bfc/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/gufron/.gradle/caches/transforms-3/921331af77132a25f740f3aaacef1035/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/gufron/.gradle/caches/transforms-3/921331af77132a25f740f3aaacef1035/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/gufron/.gradle/caches/transforms-3/4448977e74610da919d9da7552e77787/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/gufron/.gradle/caches/transforms-3/4448977e74610da919d9da7552e77787/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/gufron/.gradle/caches/transforms-3/e98532d7a7824d3ab730647c2522ffbc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

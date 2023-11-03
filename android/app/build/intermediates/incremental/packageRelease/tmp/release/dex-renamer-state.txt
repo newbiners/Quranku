@@ -1,0 +1,7 @@
+#Wed Nov 01 21:04:18 WIB 2023
+base.1=/media/gufron/00581551581546B6/quranku/Quranku/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/media/gufron/00581551581546B6/quranku/Quranku/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

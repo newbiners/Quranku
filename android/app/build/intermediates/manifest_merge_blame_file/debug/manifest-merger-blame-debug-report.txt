@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.quranku"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:3:5-67
+12-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:4:5-79
+13-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:4:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:5:5-81
+14-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:5:23-79
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.182.0] /home/gufron/.gradle/caches/transforms-3/c0b90fe3f31ff1b23e83416ee9ade69c/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
+16
+17    <application
+17-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:6:5-26:19
+18        android:name="com.quranku.MainApplication"
+18-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:7:7-38
+19        android:allowBackup="false"
+19-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:11:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.7.0] /home/gufron/.gradle/caches/transforms-3/04ff083ec9700219d3c73b8da88dc5ed/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:9:7-41
+23        android:label="@string/app_name"
+23-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:8:7-39
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:10:7-52
+25        android:theme="@style/AppTheme"
+25-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:12:7-38
+26        android:usesCleartextTraffic="true" >
+26-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:8:9-44
+27        <activity
+27-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:9-111
+28            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+28-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:19-83
+29            android:exported="false" />
+29-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/debug/AndroidManifest.xml:11:84-108
+30        <activity
+30-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:13:7-25:18
+31            android:name="com.quranku.MainActivity"
+31-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:14:9-37
+32            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+32-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:16:9-118
+33            android:exported="true"
+33-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:20:9-32
+34            android:label="@string/app_name"
+34-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:15:9-41
+35            android:launchMode="singleTask"
+35-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:17:9-40
+36            android:screenOrientation="portrait"
+36-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:19:9-45
+37            android:windowSoftInputMode="adjustResize" >
+37-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:18:9-51
+38            <intent-filter>
+38-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:21:9-24:25
+39                <action android:name="android.intent.action.MAIN" />
+39-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:22:13-65
+39-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:22:21-62
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:23:13-73
+41-->/media/gufron/00581551581546B6/quranku/Quranku/android/app/src/main/AndroidManifest.xml:23:23-70
+42            </intent-filter>
+43        </activity>
+44
+45        <meta-data
+45-->[com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+46            android:name="com.facebook.soloader.enabled"
+46-->[com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+47            android:value="false" />
+47-->[com.facebook.soloader:soloader:0.10.5] /home/gufron/.gradle/caches/transforms-3/e1c51083936db157194336cd371c550b/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+51            android:authorities="com.quranku.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] /home/gufron/.gradle/caches/transforms-3/fb1b7b96c238e017e1ed5bbd3e328a55/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/gufron/.gradle/caches/transforms-3/eb7b48e571386d85d6a138fd4198f760/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>
