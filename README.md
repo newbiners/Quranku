@@ -11,5 +11,4 @@
 - Masuk ke direktori folder.
 - Lakukan perintah npm install.
 - Tunggu hingga proses selesai.
-- Setelah selesai, jalankan npm run dev.
-- Untuk pengambilan data User, silahkan masukan token pada form yang tersedia.
+- Setelah selesai, jalankan npm run start.
